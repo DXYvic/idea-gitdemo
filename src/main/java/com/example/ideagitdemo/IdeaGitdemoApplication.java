@@ -11,6 +11,7 @@ public class IdeaGitdemoApplication {
         System.out.println("web程序测试成功");
         System.out.println("git 配置成功");
         System.out.println("222222");
+        System.out.println("33333");
     }
 
 }
