@@ -10,6 +10,7 @@ public class IdeaGitdemoApplication {
 //        SpringApplication.run(IdeaGitdemoApplication.class, args);
         System.out.println("web程序测试成功");
         System.out.println("git 配置成功");
+        System.out.println("222222");
     }
 
 }
